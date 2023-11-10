@@ -17,7 +17,7 @@ Hi everyone, my name is Nikita, 24 years old. I decided to try to learn front-en
 * Java 8, Java EE
 * Spring MVC, Spring Boot, Spring Security
 * Spring JPA, Hibernate
-* Maven
+* Maven, Webpack
 * SQL (PostgreSQL, MySQL)
 * Spring Test, JUnit
 * Thymeleaf
