@@ -24,3 +24,37 @@ Hi everyone, my name is Nikita, 24 years old. I decided to try to learn front-en
 * Apache Tomcat
 * Git, GitHub
 * IntelliJ IDEA, VS Code, Figma
+
+## Code Example
+
+```
+function sumMul(n,m){
+  
+  if (m <= n) {
+    return 'INVALID'
+  }
+  
+  let sum = 0 
+  for (let i = n; i < m; i += n) {
+    sum += i
+  }
+  
+  return sum
+}
+```
+
+## Experience
+
+[CRUD_App](https://github.com/n-sokov/CRUD_App)
+
+## Education
+
+* **Belarusian State University of Informatics and Radioelectronics**
+* **JavaRush**
+* **Udemy**
+
+## Languages
+
+* **Russian** - Native
+* **Belarusian** - Native
+* **English** - A2
